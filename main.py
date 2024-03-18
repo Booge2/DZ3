@@ -43,6 +43,8 @@ person1.change_phone_number("+380978901234")
 person1.move_to_new_address("Львів", "Україна", "вул. Франка, 10")
 
 print(person1)
+
+
 # Завдання 2
 class City:
 
